@@ -8,7 +8,7 @@ repository: nathaniel-mahieu/n.mahi.eu.github.io      # Change to <your-username
 remote_theme: yousinix/portfolYOU
 open_new_tab: false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-x
+
 ### Plugins ###
 plugins:
   - jemoji
