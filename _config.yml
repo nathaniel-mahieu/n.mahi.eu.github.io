@@ -4,11 +4,11 @@ description: >-
             try everything,
             and finish a thing or two.
 baseurl: "n.mahi.eu"            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : nathaniel-mahieu/n.mahi.eu.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : yousinix/portfolYOU
-open_new_tab        : false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
+repository: nathaniel-mahieu/n.mahi.eu.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme: yousinix/portfolYOU
+open_new_tab: false                    # Opens external URLs in new tab (works for posts, projects and navbar only)
 
-
+x
 ### Plugins ###
 plugins:
   - jemoji
@@ -24,21 +24,21 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Nathaniel Guy Mahieu
-  image             : https://n.mahi.eu/PXL_20250825_235941140.MP.jpg
-#  behance           : your_username
+  name: Nathaniel Guy Mahieu
+  image: https://n.mahi.eu/PXL_20250825_235941140.MP.jpg
+#  behance: your_username
 # dribbble          : your_username
-  email             : nate@mahie.us
+  email: nate@mahie.us
 #  facebook          : your_username
-  github            : nathaniel-mahieu
+  github: nathaniel-mahieu
 # gitlab            : your_username
- instagram         : scalefreeself
+ instagram: scalefreeself
 # kaggle            : your_username
-  linkedin          : nathaniel-g-mahieu
+  linkedin: nathaniel-g-mahieu
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
- stackoverflow     : 3565544
+ stackoverflow: 3565544
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
 #  twitter           : your_username
